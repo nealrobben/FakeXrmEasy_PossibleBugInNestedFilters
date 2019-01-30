@@ -1,0 +1,76 @@
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.Tests.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.Tests.pdb
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.exe
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.pdb
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.exe.config
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.csprojAssemblyReference.cache
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.csproj.CopyComplete
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.pdb
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\FakeXrmEasy.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.Tests.dll.config
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.assert.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.core.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.assert.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.core.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy\Bug nested linked entities\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.Tests.dll.config
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.Tests.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.Tests.pdb
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.exe
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\FakeItEasy.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\FakeXrmEasy.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.IdentityModel.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.assert.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.core.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.pdb
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Console.exe.config
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\FakeItEasy.pdb
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\FakeItEasy.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.assert.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.core.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.csprojAssemblyReference.cache
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.csproj.CopyComplete
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.dll
+C:\Users\nealr\Documents\Neal info\FakeXrmEasy2\PossibleBugInNestedFilters\Console.Tests\obj\Debug\Console.Tests.pdb
